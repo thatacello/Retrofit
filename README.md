@@ -1,6 +1,11 @@
 # Retrofit
 
-Como usar o Retrofit;
+App no Android Studio em Java.
 
-Como usar AsyncTask;
+Nesse projeto tive noções de:
 
+-Retrofit;
+
+-AsyncTask;
+
+-Requisições HTTP;

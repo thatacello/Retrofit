@@ -4,8 +4,8 @@ App no Android Studio em Java.
 
 Nesse projeto tive noções de:
 
--Retrofit;
+- Retrofit;
 
--AsyncTask;
+- AsyncTask;
 
--Requisições HTTP;
+- Requisições HTTP;
